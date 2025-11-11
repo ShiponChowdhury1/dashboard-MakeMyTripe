@@ -43,7 +43,7 @@ export default function ClientDashboard() {
         {/* Header */}
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-foreground">Dashboard</h1>
-          <p className="text-foreground/60">Welcome back! Here's your performance overview.</p>
+          <p className="text-foreground/60">Welcome back! Here&#39;s your performance overview.</p>
         </div>
 
         {/* Stats */}
