@@ -38,12 +38,12 @@ const COLORS = ["#5b52ff", "#7c3aed", "#ec4899", "#f59e0b"]
 
 export default function ClientDashboard() {
   return (
-    <div className="w-full py-20 px-4">
-      <div className="max-w-7xl mx-auto space-y-8">
+    <div className="w-full py-12 px-0">
+      <div className="space-y-8">
         {/* Header */}
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-foreground">Dashboard</h1>
-          <p className="text-foreground/60">Welcome back! Here&#39;s your performance overview.</p>
+          <p className="text-foreground/60">Welcome back! Here's your performance overview.</p>
         </div>
 
         {/* Stats */}

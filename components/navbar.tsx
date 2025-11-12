@@ -29,7 +29,7 @@ export function Navbar() {
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-lg">M</span>
             </div>
-            <span className="font-bold text-xl hidden sm:inline text-foreground">MakeMyTrip</span>
+            <span className="font-bold text-xl hidden sm:inline text-foreground">Modern</span>
           </Link>
 
           {/* Desktop Navigation */}
